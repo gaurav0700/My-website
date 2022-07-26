@@ -1,0 +1,137 @@
+.topcontainer{
+    background-color: #d0f3ec;
+    
+   position: relative;
+   padding-top: 70px;
+   
+   
+    
+}
+.middlecontainer{
+        line-height: 2;  
+}
+.bottom-container{
+background-color: #66BFBF; 
+padding: 50px 0 20px ;
+}
+
+body{
+    background-color:#dbefeb ;
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, sans-serif;
+}
+h1{
+    font-size: 5.6rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 1;
+
+   
+}
+.bottomcloud{
+    
+    position: absolute;
+    left: 200px;
+}
+.topcloud{
+    position: absolute;
+    left: 1050px;
+    top: 40px;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color:#11999E;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 150px auto;
+    line-height: 2;/* give the distance between two line*/
+    text-align: left;
+    
+}
+.pro{
+    margin-top: 30px;
+}
+.pro1{
+    height:200px;
+    width: 200px;
+    float: left; /* this is use to take the content on  the left size of the image */
+    margin-right:30px;/* giving space between the image and the content */
+    
+}
+.pro2{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-right: 30px;
+}
+hr{
+   
+    border-style: none;
+
+    border-top-style: dotted;
+    border-color: rgb(153, 149, 149);
+    border-width: 5px;
+    margin: 100px auto 100px auto;
+   width:3%;
+}
+.btn{
+    background-color: #11999E;
+    height: 330px;
+    width: 200px;
+}
+.message{
+
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20pxpx;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  a{
+    color: #11999E;
+    font-family: Georgia,serif;
+    margin: 10px 20px;  
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(232, 221, 221);
+}
+.copy{
+    color: rgb(232, 221, 221);
+font-size: 0.75rem;
+padding: 10px 0;
+}
